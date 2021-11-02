@@ -1,0 +1,7 @@
+# IGNORE DOC DIRECTORY
+/doc
+
+# IGNORE .class FILES
+*.class
+
+README.txt
